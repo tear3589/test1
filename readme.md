@@ -10,3 +10,7 @@
 
 [2weekwork]: 2주차_과제.ipynb "2주차 과제"
 
+3주차 과제 20.06.08
+[군집분석과 Cost Function 구현][3weekwork]
+
+[3weekwork]: 3주차_과제.ipynb "3주차 과제"
