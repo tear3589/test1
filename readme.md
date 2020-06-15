@@ -14,3 +14,8 @@
 [군집분석과 Cost Function 구현][3weekwork]
 
 [3weekwork]: 3주차_과제.ipynb "3주차 과제"
+
+4주차 과제 20.06.15
+[용어 정리, 딥러닝 강의 클론 코딩, 딥러닝 순전파 & 역전파 계산][4weekwork]
+
+[4weekwork]: 4주차_과제.ipynb "4주차 과제"
